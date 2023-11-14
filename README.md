@@ -1,6 +1,7 @@
 # Student-exam-data-analysis
 Analyzed the student exam data with their marks, gender distribution, parent's education, parent's marital status, lunch type & their weekly study hours. 
 <br>
+<br>
 We used the following functions for visualizations-
 <br>
 1-Countplot
@@ -10,6 +11,7 @@ We used the following functions for visualizations-
 3-Pieplot
 <br>
 4-Barplot
+<br>
 <br>
 Findings of the analysis-
 <br>
